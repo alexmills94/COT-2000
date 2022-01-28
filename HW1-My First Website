@@ -1,6 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
 <h1 style="color: #7CB9E8; text-align: center;">My First Website</h1>
 <h2>About Me:</h2>
 <ol style="list-style: none; font-size: 14px; line-height: 32px; font-weight: bold;">
 <li>Name: Alex Mills</li>
 <li>Z Number: Z23580492</li>
 <li>Major: CS</li>
+</body>
+</html>
